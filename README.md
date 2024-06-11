@@ -58,7 +58,7 @@ From your command line, first clone Simplefolio:
 $ git clone https://github.com/shinystarlight00/html-simple-portfolio
 
 # Move into the repository
-$ cd simplefolio
+$ cd html-simple-portfolio
 
 # Remove the current origin repository
 $ git remote remove origin

@@ -98,14 +98,6 @@ If your run into issues installing the dependencies with NPM, use this below com
 $ sudo npm install --unsafe-perm=true --allow-root
 ```
 
-Once your server has started, go to this url `http://localhost:1234/` to see the portfolio locally. It should look like the below screenshot.
-
-<h2 align="center">
-  <img src="https://github.com/cobiwave/gatsby-simplefolio/blob/master/examples/example.png" alt="Simplefolio" width="100%">
-</h2>
-
----
-
 ## Template Instructions:
 
 ### Step 1 - STRUCTURE
